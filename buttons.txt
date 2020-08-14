@@ -1,0 +1,6 @@
+Pictures\\button_start.png
+Pictures\\button_web.png
+Pictures\\button_team.png
+Pictures\\button_exit.png
+Pictures\\button_back.png
+Pictures\\button_continue.png
